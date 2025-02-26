@@ -17,4 +17,4 @@
          adiministração 
          oratoria
  
- * INTERESSES:Programação de modulos automotivos 
+ * INTERESSES:Programação de modulos automotivos. 
